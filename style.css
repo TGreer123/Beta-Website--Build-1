@@ -1,0 +1,37 @@
+h1 {
+    color:darkgreen
+}
+
+h1{
+    font-size:large
+}
+
+.info{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.info{
+    background-color: lightgreen;
+}
+
+#favorite{
+    background-color: gold;
+}
+.header{
+    color:red;
+    font-size:40px;
+    font-family: fantasy;
+    text-align: center;
+}
+.header:hover:active{
+    color:skyblue;
+}
+.header:hover:after{
+    color:skyblue;
+}
+.text{
+    font-size:larger;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}

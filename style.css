@@ -32,6 +32,10 @@ h1{
     font-size:larger;
     text-align: center;
 }
+#shrink{
+    height:250px;
+    width:250px;
+}
 .footer{
     text-align: center;
 }
